@@ -4,3 +4,7 @@
 #Bene, Leon, Peter and Janos
 
 code, comments and conversation will be in english
+
+#We chose Contributor Covenant as our Code of Conduct
+#Added a simple MIT license to the Projekt 
+
