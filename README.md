@@ -9,5 +9,5 @@ Bene, Leon, Peter and Janos
 code, comments and conversation will be in english
 
 ## Code of Conduct
-For this Projekt we chose the Contributor Covenant as our code of conduct
+For this Projekt we set up the Contributor Covenant as our code of conduct
 (TeamProjectTH-BingenEP1/CODE_OF_CONDUCT.txt).
