@@ -14,3 +14,7 @@ For this Projekt we set up the Contributor Covenant as our code of conduct
 
 ## License
 Added the MIT-License as license for our open source project
+
+** Launch explanation
+To launch the application go to your command line (:cmd) and then input the instruction
+java -jar FirstAPP.jar. Now the App should run and print „Hello, World.“ in the command line.
