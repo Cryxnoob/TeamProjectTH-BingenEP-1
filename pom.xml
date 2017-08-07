@@ -6,7 +6,7 @@
 
 
     <groupId>TeamProjectTH-BingenEP-1</groupId>
-    <artifactId>HelloWorld</artifactId>
+    <artifactId>TrafficSimulation</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -44,7 +44,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>HelloWorld.FirstAPPKt</mainClass>
+                                    <mainClass>firstapp.HelloWorldKt</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
