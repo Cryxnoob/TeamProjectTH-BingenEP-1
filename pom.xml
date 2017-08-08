@@ -40,7 +40,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>firstapp.HelloWorldKt</mainClass>
+                                    <mainClass>HelloWorld.HelloWorldKt</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
