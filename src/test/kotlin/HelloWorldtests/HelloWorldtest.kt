@@ -2,7 +2,7 @@ package HelloWorldtests
 
 import org.junit.Test
 
-class HelloWorldtest{
+class HelloWorldTest{
 
     @Test
     fun testHelloWorld(){
